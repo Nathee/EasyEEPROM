@@ -1,0 +1,18 @@
+{
+    "name": "EasyEEPROM",
+    "version": "0.1",
+    "frameworks": "Arduino",
+    "description": "Read/Write byte or struct to I2C EEPROM (base on AT24CXXX)",
+    "keywords": "EEPROM",
+    "authors": [
+        {
+            "name": "Kamon Singtong",
+            "email": "kamon.dev@hotmail.com",
+            "url": "http://makearduino.com",
+            "maintainer": true
+        }
+    ],
+    "examples": [
+        "examples/*/*.ino"
+    ]
+}
